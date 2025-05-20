@@ -4,4 +4,4 @@
 
 [oops part2](https://colab.research.google.com/drive/1kDHyMQ9_7SjWdbt_B4Ox5y6kfydddRkX?usp=sharing)
 
-[oops part2 concepts](https://colab.research.google.com/drive/1cgxiFGMdRbn27NWGpNz_9BBMPOIIr35c?usp=sharing)
+[oops part2 concepts](https://colab.research.google.com/drive/1cgxiFGMdRbn27NWGpNz_9BBMPOIIr35c?usp=sharing)n
